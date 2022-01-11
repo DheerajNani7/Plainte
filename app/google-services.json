@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873294119005",
+    "firebase_url": "https://plainte-e38f5-default-rtdb.firebaseio.com",
+    "project_id": "plainte-e38f5",
+    "storage_bucket": "plainte-e38f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873294119005:android:9d2a16aa2ab21c91f64db4",
+        "android_client_info": {
+          "package_name": "com.example.rajesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873294119005-o8q2ecenqnr9fbuqtbksmrmdkevan4dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQogoDDjZ6zQZBEcHleFhJT3vaOcqLMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873294119005-o8q2ecenqnr9fbuqtbksmrmdkevan4dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
