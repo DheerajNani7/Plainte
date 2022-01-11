@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Plainte</string>
+    <string name="login">Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="register_a_staff">Register a Staff</string>
+    <string name="password">Password</string>
+    <string name="staff_id">Staff ID</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string-array name="type">
+        <item>Potholes or Lifted Manholes</item>
+        <item>Debris, dead animals</item>
+        <item>Fallen trees</item>
+        <item>Electricity Failures</item>
+        <item>Street Light Outage</item>
+        <item>Drainage Problem</item>
+        <item>Uncollected Trash</item>
+        <item>Flooding</item>
+        <item>Other</item>
+    </string-array>
+</resources>

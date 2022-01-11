@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".NewComplaint">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Register Complaint"
+            android:fontFamily="@font/aurella"
+            android:textStyle="bold"
+            android:textColor="@color/gb"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal"
+            android:padding="10dp"
+            android:textSize="70dp"
+            android:layout_margin="10dp"/>
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/image_view1"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <Button
+            android:layout_width="204dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:background="@color/black"
+            android:fontFamily="@font/c"
+            android:onClick="chooseimage"
+            android:text="Choose Images"
+            android:textAlignment="center"
+            android:textSize="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal"
+            android:text="Attach proof ( mandatory ) " />
+
+        <Spinner
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="30dp"
+            android:background="@color/black"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/complaintType" />
+
+        <EditText
+            android:minLines="4"
+            android:singleLine="false"
+            android:lines="8"
+            android:textSize="20dp"
+            android:id="@+id/description"
+            android:scrollbars="vertical"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:textAlignment="center"
+            android:inputType="textMultiLine"
+            android:hint="Enter Description"
+            android:textColorHint="@color/black"
+            android:textColor="@color/black"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:text="Register Complaint"
+            android:onClick="registercomplaint"
+            android:layout_margin="70dp"
+            android:fontFamily="@font/c"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:background="@color/black"
+            android:textAlignment="center"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>
