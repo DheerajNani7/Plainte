@@ -1,0 +1,4 @@
+#Fri Jan 07 20:35:17 IST 2022
+base.0=/Users/dheeraj/Downloads/Plainte/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
