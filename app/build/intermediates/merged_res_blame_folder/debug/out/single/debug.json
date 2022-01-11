@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_user_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-xxxhdpi/user_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_admin_login.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_user_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/user_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_b.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/b.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_new_complaint.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_new_complaint.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_splash_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/splash_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_profile.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_splash.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_user.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/user.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_email.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_email.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_splash.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/splash.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_about_user.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_about_user.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_splash_round.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-anydpi-v26/splash_round.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_splash_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/splash_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_user_foreground.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-anydpi-v21/user_foreground.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_user_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/user_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_screen.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_screen.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_background.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_playlist.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/playlist.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_splash_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/splash_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_a.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/a.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-xhdpi_user_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-xhdpi/user_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_adminverify.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/adminverify.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_admin_verify_complaint.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_admin_verify_complaint.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-xxhdpi_user_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-xxhdpi/user_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_complaint_status_user.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_complaint_status_user.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_aurella.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/aurella.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_e.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/e.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_splash.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-anydpi-v26/splash.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_v.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/v.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_usercomplaint.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/usercomplaint.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable_background.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_splash_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/splash_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_h.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/h.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_splash_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/splash_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_bettari.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/bettari.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_splash_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/splash_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_home_page.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_username.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_username.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_g.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/g.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_user_round.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-anydpi-v26/user_round.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_splash_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/splash_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_user.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/user.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_d.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/d.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_user_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/user_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-ldpi_user_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-ldpi/user_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_user.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/user.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_splash_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/splash_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_lock.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_splash_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/splash_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_user.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-anydpi-v26/user.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/layout_activity_admin_home_page.xml.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/layout/activity_admin_home_page.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_user.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/user.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-hdpi_user_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-hdpi/user_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_splash.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_splash.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/splash.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_user_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/user_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-mdpi_user_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-mdpi/user_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_f.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/f.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_splash.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_shelldon.otf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/shelldon.otf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/font_c.ttf.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/font/c.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-hdpi_splash_foreground.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-hdpi/splash_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-mdpi_user_round.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-mdpi/user_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Downloads/Plainte/app/build/intermediates/res/merged/debug/mipmap-xhdpi_user.png.flat",
+        "source": "/Users/dheeraj/Downloads/Plainte/app/src/main/res/mipmap-xhdpi/user.png"
+    }
+]
